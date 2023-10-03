@@ -10,4 +10,4 @@ debut compte de le nombre de bonbon (reel"argent" a,reel"prix" b, reel c=0)
   
   retourner c
 
-fin nombre de bonbons
+fin nombre de bonbons =c
